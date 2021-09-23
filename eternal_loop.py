@@ -1,4 +1,6 @@
-# Unzipping a loop of zip files
+
+# HackTheBox Misc Challenge -  Eternal Loop
+# Unzipping zip File nested into other zip files
 
 
 import subprocess
